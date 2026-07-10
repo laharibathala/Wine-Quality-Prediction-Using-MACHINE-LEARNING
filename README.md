@@ -153,11 +153,11 @@ Among all the machine learning algorithms tested, the model with the highest acc
 Example:
 
 | Model | Accuracy |
-|--------|----------|
-| Logistic Regression | XX% |
-| Decision Tree | XX% |
-| Random Forest | XX% |
-| SVM | XX% |
+| Knn | 0.682462% |
+| Logistic Regression | 0.682462% |
+| Decision Tree | 0.710769% |
+| Random Forest | 0.786462% |
+| SVM | 0.707077% |
 
 Replace XX with your actual results.
 
